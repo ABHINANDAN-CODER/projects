@@ -1,7 +1,7 @@
 # projects
 All projects done by me
 
-**#PYTHON**
+**PYTHON**
 You Must have python installed/ you can use anaconda.
 packages that use.
   numpy
